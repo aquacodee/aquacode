@@ -7,7 +7,7 @@
 
 <p> For more than 4 years I have been developing web applications, machine learning applications and various software. Developed strategies for the development of enterprises, provided financial and client activities, increased the operational efficiency of the business. Conducted training and negotiations at the managerial level.</p>
 
-1. Any freelance work? do reach, .
+1. Any freelance work? do reach at aquacodee@gmail.com
 2. Ask me about anything, i am happy to help.
 
 If you think that programmers are boring, then I want to upset you.
