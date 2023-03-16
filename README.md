@@ -5,7 +5,11 @@
 
 <h1>Backend Engineer and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.</h1>
 
-<p> For more than 4 years I have been developing web applications, machine learning applications and various software. Developed strategies for the development of enterprises, provided financial and client activities, increased the operational efficiency of the business. Conducted training and negotiations at the managerial level.</p>
+<p>As a seasoned developer with over 4 years of experience, I have mastered the art of crafting cutting-edge web and machine learning applications. In addition to that, I have also provided valuable financial and client-related insights to boost business growth and enhance operational efficiency.
+
+My proficiency in Python has allowed me to excel in both data science and backend engineering, where I specialize in leveraging advanced tools and frameworks like FastAPI to create seamless and responsive Restful APIs. Moreover, I am a skilled drone pilot and data analyst, utilizing #DJITERRA to collect and analyze complex data sets.
+
+My passion for exploring new opportunities is reflected in my work, where I employ predictive analysis techniques to explore the vast biomedical and agricultural domains. As a result, I have successfully developed strategies and conducted training and negotiations at the managerial level, enabling businesses to achieve greater heights of success..</p>
 
 1. Any freelance work? do reach at aquacodee@gmail.com
 2. Ask me about anything, i am happy to help.
