@@ -19,7 +19,7 @@ If you think that programmers are boring, then I want to upset you.
 We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life
 
 
-<h1>Techlogy experience.</h1>
+<h1>Technology experience.</h1>
 
 Frameworks:  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
